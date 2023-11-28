@@ -1,7 +1,7 @@
 body {
     width: 100%;
     height: 100%;
-    background: black;
+    background-image: url('fond-abstrait-etoiles-espace_828631-5782.jpg.webp');
     margin: 0;
     overflow: hidden; /* Evite la scrollbar */
   
@@ -10,7 +10,9 @@ body {
     align-items: center;
     justify-content: center;
 }
-
+img{
+    opacity: 0.6;
+}
 .crawl {
     /* centrage de l'élément' */
     position: absolute;
