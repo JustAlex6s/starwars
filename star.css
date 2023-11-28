@@ -1,1 +1,7 @@
-
+body{
+    background-image: url('fond-abstrait-etoiles-espace_828631-5782.jpg.webp');
+}
+p {
+    color :aqua;
+    text-align: center;
+}
